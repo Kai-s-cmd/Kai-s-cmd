@@ -1,4 +1,34 @@
-### Hi there 👋
+### Привет! 👋
+
+## О себе
+Я **Александр Федоренко**, разработчик на python.
+
+### Вот, что я умею
+
+| Skills |  Works       |
+|-----:|---------------|
+|Python|[Alien Invasion](https://github.com/Kai-s-cmd/Alien_Invasion), [Анализ данных с помощью matplotlib](https://github.com/Kai-s-cmd/work_with_matplotlib/tree/master), [avatar downloader](https://github.com/Kai-s-cmd/final_python-s_work) |
+|PostgreSQL|[VKinder](https://github.com/Kai-s-cmd/netology_diploma), [Select-запросы, выборки из одной таблицы](https://github.com/Kai-s-cmd/netology_select_request/tree/master)|
+|HTML|[Noemi](https://codepen.io/Kai-s-cmd/pen/bGKpOwm)|
+|Django|[Learning_log](https://github.com/Kai-s-cmd/Learning_log/tree/master)|
+|GIT|[Repositories](https://github.com/Kai-s-cmd?tab=repositories)            |
+|Linux|[Best linux ever](https://pop.system76.com/)         |
+ 
+ 
+<details>
+<summary>Сертификат Нетологии</summary>
+
+  ![certificate.pdf](https://github.com/Kai-s-cmd/Kai-s-cmd/files/11440412/certificate.pdf)
+
+
+</details>
+
+
+
+
+
+
+
 
 <!--
 **Kai-s-cmd/Kai-s-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
