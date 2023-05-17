@@ -15,10 +15,14 @@
 |Linux|[Best linux ever](https://pop.system76.com/)         |
  
  
-<details>
-<summary>Сертификат Нетологии</summary>
 
-  ![certificate.pdf](https://github.com/Kai-s-cmd/Kai-s-cmd/files/11440412/certificate.pdf)
+<details>
+<summary>Диплом и сертификат Нетологии</summary>
+
+ ![Python diploma](https://github.com/Kai-s-cmd/Kai-s-cmd/assets/93368311/edbd8491-749b-4105-b670-4a31ec1e67cc)
+ 
+ 
+ ![certificate.pdf](https://github.com/Kai-s-cmd/Kai-s-cmd/files/11440412/certificate.pdf)
 
 
 </details>
