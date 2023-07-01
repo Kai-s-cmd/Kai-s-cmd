@@ -12,7 +12,7 @@
 |HTML|[Noemi](https://codepen.io/Kai-s-cmd/pen/bGKpOwm)|
 |Django|[Learning_log](https://github.com/Kai-s-cmd/Learning_log)|
 |GIT|[Repositories](https://github.com/Kai-s-cmd?tab=repositories)            |
-|Linux|[Best linux ever](https://pop.system76.com/)         |
+|Linux|[Best linux ever!](https://pop.system76.com/)         |
  
  
 
