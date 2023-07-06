@@ -9,8 +9,8 @@
 |-----:|---------------|
 |Python|[Alien Invasion](https://github.com/Kai-s-cmd/Alien_Invasion), [Анализ данных с помощью matplotlib](https://github.com/Kai-s-cmd/work_with_matplotlib), [avatar downloader](https://github.com/Kai-s-cmd/final_python-s_work), [Codewars profile](https://www.codewars.com/users/Kai-s-cmd) |
 |PostgreSQL|[VKinder](https://github.com/Kai-s-cmd/netology_diploma), [Select-запросы, выборки из одной таблицы](https://github.com/Kai-s-cmd/netology_select_request)|
-|HTML|[Noemi](https://codepen.io/Kai-s-cmd/pen/bGKpOwm)|
-|Django|[Learning_log](https://github.com/Kai-s-cmd/Learning_log)|
+|HTML|[Noemi](https://codepen.io/Kai-s-cmd/pen/bGKpOwm), [Bouquet](https://kai-s-cmd.github.io/bouquet-s-site/)|
+|Django|[Learning_log](https://github.com/Kai-s-cmd/Learning_log), [Bouquet](https://github.com/Kai-s-cmd/bouquet)|
 |GIT|[Repositories](https://github.com/Kai-s-cmd?tab=repositories)            |
 |Linux|[Best linux ever!](https://pop.system76.com/)         |
  
